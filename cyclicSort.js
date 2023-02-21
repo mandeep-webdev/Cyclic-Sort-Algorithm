@@ -1,5 +1,5 @@
 const cyclicSort = (arr) => {
-  debugger
+
   let i = 0
   while(i<arr.length){
     let correctIndex = arr[i] - 1
